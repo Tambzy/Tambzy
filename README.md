@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tambzy&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tambzy&count_private=true)
